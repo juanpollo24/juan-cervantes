@@ -1,2 +1,12 @@
 # juan-cervantes
 Elaboración de curriculum crecion de docuemtos 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Juan Cervantes</title>
+</head>
+<body>
+    <h1>Bienvenido a mi página web</h1>
+    <p>Elaboración de currículums y creación de documentos.</p>
+</body>
+</html>
